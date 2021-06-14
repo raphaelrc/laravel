@@ -8,10 +8,10 @@ docker-compose up -d
 
 Output:
 
-Creating network "laravel_socialmedia" with driver "bridge"
-Creating socialmedia-db      ... done
-Creating socialmedia-app    ... done
-Creating socialmedia-nginx ... done
+Creating network "laravel_socialmedia" with driver "bridge"<br>
+Creating socialmedia-db      ... done<br>
+Creating socialmedia-app    ... done<br>
+Creating socialmedia-nginx ... done<br>
 
 Next we need to install composer dependencies inside the app service:
 
@@ -21,9 +21,9 @@ docker-compose exec app composer install
 
 You should see a similar output:
 
-Installing dependencies from lock file (including require-dev)
-Verifying lock file contents can be installed on current platform.
-Package operations: 104 installs, 0 updates, 0 removals
+Installing dependencies from lock file (including require-dev)<br>
+Verifying lock file contents can be installed on current platform.<br>
+Package operations: 104 installs, 0 updates, 0 removals<br>
 
   - Downloading doctrine/inflector (2.0.3)
   - Downloading doctrine/lexer (1.2.1)
