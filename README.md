@@ -37,17 +37,21 @@ Package operations: 104 installs, 0 updates, 0 removals
   - Installing webmozart/assert (1.10.0): Extracting archive
   - Installing dragonmantank/cron-expression (v3.1.0): Extracting archive
 
-Generating optimized autoload files
-Illuminate\Foundation\ComposerScripts::postAutoloadDump
-@php artisan package:discover --ansi
-Discovered Package: facade/ignition
-Discovered Package: fideloper/proxy
-Discovered Package: fruitcake/laravel-cors
-Discovered Package: laravel/sail
-Discovered Package: laravel/tinker
-Discovered Package: nesbot/carbon
-Discovered Package: nunomaduro/collision
-Package manifest generated successfully.
+Generating optimized autoload files<br>
+Illuminate\Foundation\ComposerScripts::postAutoloadDump<br>
+@php artisan package:discover --ansi<br>
+Discovered Package: facade/ignition<br>
+Discovered Package: fideloper/proxy<br>
+Discovered Package: fruitcake/laravel-cors<br>
+Discovered Package: laravel/sail<br>
+Discovered Package: laravel/tinker<br>
+Discovered Package: nesbot/carbon<br>
+Discovered Package: nunomaduro/collision<br>
+Package manifest generated successfully.<br>
+74 packages you are using are looking for funding.<br>
+Use the `composer fund` command to find out more!<br>
+
+### Done
 
 Great! The application is up and running!
 
